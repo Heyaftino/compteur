@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+section{
+    background-color: rgb(219, 231, 230);
+    
+    
+    height: 900px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 32px;
+    margin-left: 32px;
+    margin-right: 32px;
+    margin-bottom: 32px;
+    padding-top: 250px;
+
+}
+body{
+    background-color:white;
+    margin-top: 1px;
+}
+
+.coun {
+    width: 100%;
+    display: flex;
+    color: black;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1px;
+    font-size: 30PX;
+}
+
+
+
+
+
+.block{
+     
+    width: 100%;
+    display: flex;
+    align-items: center ;
+    justify-content: center;
+    
+}
+.num{
+    width: 100%;
+    display: flex;
+    align-items: center ;
+    justify-content: center;
+    font-size: 90px;
+    color: green;
+    border-radius:28px;
+    height: 20vh ;
+    width: 100%;
+    
+}
+
+.dec{
+    background-color: white;
+    border-radius: 5px;
+    border: 2px solid black;
+    margin-right: 20px;
+    FONT-WEIGHT: bold;
+    CURSOR: pointer;
+    PADDING-LEFT: 18px;
+    PADDING-RIGHT: 18px;
+    PADDING-TOP: 3px;
+    PADDING-BOTTOM: 3px;
+    BORDER-LEFT: black solid 1px outset;
+    BORDER-RIGHT: black solid 1px outset;
+    BORDER-TOP: black solid 1px outset;
+    BORDER-BOTTOM: black solid 1px outset
+    font-style: italic;
+    letter-spacing:2px
+    
+}
+
+.res{
+    background-color: white;
+    border-radius: 5px;
+    border: 2px solid black;
+    margin-right: 20px;
+    FONT-WEIGHT: bold;
+    CURSOR: pointer;
+    PADDING-LEFT: 18px;
+    PADDING-RIGHT: 18px;
+    PADDING-TOP: 3px;
+    PADDING-BOTTOM: 3px;
+    BORDER-LEFT: black solid 1px outset;
+    BORDER-RIGHT: black solid 1px outset;
+    BORDER-TOP: black solid 1px outset;
+    BORDER-BOTTOM: black solid 1px outset
+    font-style: italic;
+    letter-spacing:2px
+
+    
+}
+
+.inc{
+
+    background-color: white;
+    border-radius: 5px;
+    border: 2px solid blue;
+    FONT-WEIGHT: bold;
+    CURSOR: pointer;
+    PADDING-LEFT: 18px;
+    PADDING-RIGHT: 18px;
+    PADDING-TOP: 3px;
+    PADDING-BOTTOM: 3px;
+    BORDER-LEFT: black solid 1px outset;
+    BORDER-RIGHT: black solid 1px outset;
+    BORDER-TOP: black solid 1px outset;
+    BORDER-BOTTOM: black solid 1px outset
+    font-style: italic;
+    letter-spacing:2px
+}
+
+
